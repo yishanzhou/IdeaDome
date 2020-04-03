@@ -10,6 +10,7 @@ public class User {
     private String name;
     private String pwd;
     private String sex;
+    private String  lhl;
 
     public String getSex() {
         return sex;
